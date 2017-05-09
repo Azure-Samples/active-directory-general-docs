@@ -1,7 +1,5 @@
 # Setting up an Android Emulator with Chrome
 
-Thiese instructions are meant to help install Chrome on an Android Emulator.  
-
 If you want to use an emulator out of the box with chrome try one of the following:
 
 - In Visual Studio, use an emulator with Android 25+.
