@@ -8,7 +8,7 @@ If you want to use an emulator out of the box with chrome try one of the followi
 ## Steps 
 
 0. Make sure you're using an emulator with Android 21+. 
-1. Install a Chrome APK from a reputable site. For example, [APK Mirror](http://www.apkmirror.com/apk/google-inc/chrome/). Make sure to pick the right apk for your Android version and emulator architecture. 
+1. Install a Chrome APK from a reputable site. For example, [Chrome Browser 58](http://www.apkmirror.com/apk/google-inc/chrome/chrome-58-0-3029-83-release/) on  [APK Mirror](http://www.apkmirror.com/apk/google-inc/chrome/). Make sure to pick the right apk for your Android version and emulator architecture. 
 2. Drag the *.apk file to your emulator, this will automatically install the app.  Go to the app list and Chrome will be listed. 
 
 ## More Help
